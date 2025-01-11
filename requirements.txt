@@ -1,0 +1,4 @@
+langchain_core.prompts
+langchain_ollama.llms
+streamlit
+langchain_huggingface
